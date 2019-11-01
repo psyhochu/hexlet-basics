@@ -1,2 +1,5 @@
-# hexlet-basics
-for training
+# hello
+
+wat is love
+
+try to code(((
